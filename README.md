@@ -10,5 +10,6 @@ A quick and dirty software inventory built on:
 
 ## Install instructions
 
+Testing online editing
 Comming soon... ;-)
 
